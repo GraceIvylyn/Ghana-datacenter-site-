@@ -183,11 +183,11 @@ Access keys were generated for this IAM user and stored as GitHub repository sec
 ## Author
 
 **Grace Ivylyn Asante**
-Cloud Practitioner | AWS Certified | Accra, Ghana
+Cloud Practitioner |Accra, Ghana
 
 Transitioning into Cloud Support Engineering with hands-on experience in AWS infrastructure, CI/CD automation, and cloud architecture.
 
-Connect on LinkedIn or visit my portfolio for more projects.
+Connect on LinkedIn 
 
 ---
 
